@@ -1,0 +1,6 @@
+google-cloud-bigquery==3.34.0
+pymongo==4.13.1
+python-dotenv==1.1.0
+setuptools==80.9.0
+
+-e .
